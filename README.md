@@ -8,7 +8,7 @@
 
 
 ```markdown
-# Dijkstra's algorithm
+# 1. Dijkstra's algorithm
 import numpy as np
 import sys
 import matplotlib.pyplot as plt
@@ -92,7 +92,7 @@ spSet, len_selected= algo(random_graph, 0,a_input,a_input-1)
 
 
 ```markdown
-# Prim's algorithm 
+# 2. Prim's algorithm 
 
 import numpy as np
 import sys
