@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwim6ZWJlOThAhXmYN8KHRJrDtYQjRx6BAgBEAU&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fdijkstras-shortest-path-algorithm-greedy-algo-7%2F&psig=AOvVaw1PT7Bxcp8BsMD-l_vMoTPc&ust=1556038178686279](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
